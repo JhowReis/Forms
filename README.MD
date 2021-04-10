@@ -15,4 +15,4 @@
  3:WAMP
 
 comandos no terminal
-1:pip install mysql-connector-python
+1:pip install mysql-connector-python.
